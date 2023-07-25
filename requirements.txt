@@ -1,0 +1,7 @@
+pandas
+numpy
+flask
+seaborn
+matplotlib==3.1.2 # to avoid conflict with seaborn
+
+# -e .
